@@ -1,6 +1,8 @@
 # NextJS E-Commerce Dashboard & CMS
 Using Prisma ORM and MySQL
 
+![screencapture-ecommerce-admin-next13-seven-vercel-app-6861f112-190a-4900-8fe0-137a92702f5d-2023-10-25-11_21_46](https://github.com/naufalzp/ecommerce-admin-next13/assets/98691805/494095dc-e4fc-4bc9-9b04-0d570fc43f52)
+
 ### Cloning the repository
 
 ```shell
